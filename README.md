@@ -38,5 +38,5 @@ Since the axioms generated from the forgetting tool are normally normalised. It'
 * if C <= A and A <= C then A == C. <br/>
 As part of the post processing methods, annotations (labels) of concepts are added to the resulting views. <br/>
 
-**Paper** Ontology Extraction for Large Ontologies via Modularity and Forgetting. J. Chen, G. Alghamdi, R. Schmidt, D. Walther and Y. Gao. In Kejriwal, M. and Szekely, P. A. and Troncy, R. (eds), Proceedings of the 10th International Conference on Knowledge Capture (K-CAP'19). ACM, 45-52.
+**Paper:** Ontology Extraction for Large Ontologies via Modularity and Forgetting. J. Chen, G. Alghamdi, R. Schmidt, D. Walther and Y. Gao. In Kejriwal, M. and Szekely, P. A. and Troncy, R. (eds), Proceedings of the 10th International Conference on Knowledge Capture (K-CAP'19). ACM, 45-52.
 http://www.cs.man.ac.uk/~schmidt/publications/ChenAlghamdiEtAl19a.pdf
