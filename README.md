@@ -33,7 +33,7 @@ The tool used: LETHE version 0.6 (2020-02-28) link: https://lat.inf.tu-dresden.d
 
 4. **Post processing**
 
-Since the axioms generated from the forgetting tool are normally normalised. It's preferable to denormalised to preserve the original form of the axioms of the original ontology. The denormalisation in the workflow is done according to the following two logical rules: <br/>
+Since the axioms generated from the forgetting tool are normally normalised. It's preferable to denormalise them, to preserve the original form of the axioms of the original ontology. The denormalisation in the workflow is done according to the following two logical rules: <br/>
 * if A <= B1 and A <= B2 then A <= B1 and B2 
 * if C <= A and A <= C then A == C. <br/>
 As part of the post processing methods, annotations (labels) of concepts are added to the resulting views. <br/>
