@@ -14,7 +14,7 @@ The workflow starts with two inputs from the user which are:
 
 The method extends the input signature by using the information in the input ontology according to an input depth number (which ranges from 0 to 2). Example: 
 Sigma = {A}, O = {A <= (B1) and (r some B2) and (s some (t some B3))} 
-The method computes an extended signature sets 
+The method computes extended signature sets 
 * Sigma+\_0 = {A, B1}
 * Sigma+\_1 = {A, B1, B2, r}
 * Sigma+\_2 = {A, B1, B2, r, s, t, B3}
