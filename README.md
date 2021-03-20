@@ -19,7 +19,7 @@ The method computes extended signature sets
 * Sigma+\_1 = {A, B1, B2, r}
 * Sigma+\_2 = {A, B1, B2, r, s, t, B3}
 
-The method works with EL ontologies where the axioms are of the form A <= C or A == C where C is a complex class expression.
+The method works with ELH ontologies where the axioms are of the form A <= C or A == C where C is a complex class expression, or of the form r <= s where r and s are role names.
 
 2. **Modularisation**
 
